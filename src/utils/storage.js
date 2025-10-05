@@ -1,3 +1,4 @@
+
 // // src/utils/storage.js
 
 // import { supabase } from './supabaseClient';  // импорт клиента Supabase (предполагается, что он есть)
@@ -118,14 +119,15 @@
 // export const getTaskKey = localStorageImpl.getTaskKey;
 
 // export function getSavedAnswer(taskId) {
-//   const key = `answer_${taskId}`;
+//   const key = `${STORAGE_PREFIX}answer_text_${taskId}`;
 //   return localStorage.getItem(key) || '';
 // }
 
 // export function saveAnswerText(taskId, text) {
-//   const key = `answer_${taskId}`;
+//   const key = `${STORAGE_PREFIX}answer_text_${taskId}`;
 //   localStorage.setItem(key, text);
 // }
+
 
 // src/utils/storage.js
 
@@ -180,6 +182,19 @@ const localStorageImpl = {
   clearAnswersByIds: (ids) => {
     ids.forEach((id) => {
       localStorage.removeItem(localStorageImpl.getTaskKey(id));
+      localStorage.removeItem(`${STORAGE_PREFIX}answer_text_${id}`);
+      localStorage.removeItem(`${STORAGE_PREFIX}task_inputs_${id}`);
+
+      // Удаляем все подзадания (если они были)
+    let i = 0;
+    while (true) {
+      const key = `${STORAGE_PREFIX}input_correct_${id}_${i}`;
+      if (!localStorage.getItem(key)) break;
+      localStorage.removeItem(key);
+      i++;
+    }
+
+
     });
   },
 };
