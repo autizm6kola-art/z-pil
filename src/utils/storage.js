@@ -1,4 +1,6 @@
 
+
+
 // // src/utils/storage.js
 
 // import { supabase } from './supabaseClient';  // импорт клиента Supabase (предполагается, что он есть)
@@ -52,6 +54,19 @@
 //   clearAnswersByIds: (ids) => {
 //     ids.forEach((id) => {
 //       localStorage.removeItem(localStorageImpl.getTaskKey(id));
+//       localStorage.removeItem(`${STORAGE_PREFIX}answer_text_${id}`);
+//       localStorage.removeItem(`${STORAGE_PREFIX}task_inputs_${id}`);
+
+//       // Удаляем все подзадания (если они были)
+//     let i = 0;
+//     while (true) {
+//       const key = `${STORAGE_PREFIX}input_correct_${id}_${i}`;
+//       if (!localStorage.getItem(key)) break;
+//       localStorage.removeItem(key);
+//       i++;
+//     }
+
+
 //     });
 //   },
 // };
@@ -129,11 +144,13 @@
 // }
 
 
+
+
 // src/utils/storage.js
 
 import { supabase } from './supabaseClient';  // импорт клиента Supabase (предполагается, что он есть)
 
-const STORAGE_PREFIX = "app_audio_"; // можно поменять на любое название для конкретного приложения
+const STORAGE_PREFIX = "z_pil_"; // можно поменять на любое название для конкретного приложения
 
 // Флаг: false — используем localStorage, true — Supabase
 const USE_SUPABASE = false;  // переключай на true, когда будешь готова к работе с Supabase
