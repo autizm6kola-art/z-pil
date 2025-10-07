@@ -67,11 +67,11 @@ function Task({ task, onCorrect, alreadyCorrect, resetSignal }) {
         onChange={handleChange}
         style={inputStyle}
         placeholder="Введите ответ"
-        disabled={isCorrect}
+        
       />
       <button
         onClick={saveAnswer}
-        disabled={answer.trim() === '' || isCorrect}
+        
         className={`save-button ${isCorrect ? 'disabled' : ''}`}
       >
         Сохранить
