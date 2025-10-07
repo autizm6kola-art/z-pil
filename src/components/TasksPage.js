@@ -55,7 +55,7 @@ function TasksPage({ tasks, goBack }) {
       </button>
 
       <h1 className="task-heading">
-        Звёздная пыль {start}–{end}
+        Шрек {start}–{end}
       </h1>
 
       <ProgressBar correct={correctTaskIds.length} total={tasks.length} />
