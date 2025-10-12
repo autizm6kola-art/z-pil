@@ -8,46 +8,46 @@
 8 | /audio/z_008.mp3 | Чем солнце освещало болото?
 9 | /audio/z_009.mp3 | Что сейчас слегка дымилось?
 10 | /audio/z_010.mp3 | Что Шрек любил больше всего?
-11 | /audio/z_011.mp3 | 
-12 | /audio/z_012.mp3 |
-13 | /audio/z_013.mp3 | 
-14 | /audio/z_014.mp3 | 
-15 | /audio/z_015.mp3 | 
-16 | /audio/z_016.mp3 | 
-17 | /audio/z_017.mp3 | 
-18 | /audio/z_018.mp3 | 
-19 | /audio/z_019.mp3 | 
-20 | /audio/z_020.mp3 | 
-21 | /audio/z_021.mp3 | 
-22 | /audio/z_022.mp3 | 
-23 | /audio/z_023.mp3 | 
-24 | /audio/z_024.mp3 | 
-25 | /audio/z_025.mp3 | 
-26 | /audio/z_026.mp3 | 
-27 | /audio/z_027.mp3 | 
-28 | /audio/z_028.mp3 | 
-29 | /audio/z_029.mp3 | 
-30 | /audio/z_030.mp3 | 
-31 | /audio/z_031.mp3 | 
-32 | /audio/z_032.mp3 |
-33 | /audio/z_033.mp3 |
-34 | /audio/z_034.mp3 |
-35 | /audio/z_035.mp3 |
-36 | /audio/z_036.mp3 |
-37 | /audio/z_037.mp3 |
-38 | /audio/z_038.mp3 |
-39 | /audio/z_039.mp3 |
-40 | /audio/z_040.mp3 |
-41 | /audio/z_041.mp3 |
-42 | /audio/z_042.mp3 |
-43 | /audio/z_043.mp3 |
-44 | /audio/z_044.mp3 |
-45 | /audio/z_045.mp3 |
-46 | /audio/z_046.mp3 |
-47 | /audio/z_047.mp3 |
-48 | /audio/z_048.mp3 |
-49 | /audio/z_049.mp3 |
-50 | /audio/z_050.mp3 |
+11 | /audio/z_011.mp3 | Какое озерцо было недалеко от дома Шрека?
+12 | /audio/z_012.mp3 |Что принялся делать Шрек?
+13 | /audio/z_013.mp3 | Что у Шрека было свирепым и выпученным?
+14 | /audio/z_014.mp3 | Кому нравился рисунок?
+15 | /audio/z_015.mp3 | Какое пятно отпечаталось на рисунке?
+16 | /audio/z_016.mp3 | Что любил Шрек?
+17 | /audio/z_017.mp3 | Мешки с чем были нарисованы на плакате?
+18 | /audio/z_018.mp3 | Каким человеком себя считал лорд Фарквуд?
+19 | /audio/z_019.mp3 | Кем подданные именовали своего лорда?
+20 | /audio/z_020.mp3 | Какая компания там выпивала?
+21 | /audio/z_021.mp3 | Что можно купить на эти деньги?
+22 | /audio/z_022.mp3 | Какого цвета была туша?
+23 | /audio/z_023.mp3 | На чём столпились мужчины?
+24 | /audio/z_024.mp3 | Что хватали мужчины?
+25 | /audio/z_025.mp3 | Надо чем Джерри поднял факел?
+26 | /audio/z_026.mp3 | В каком соусе у Шрека были улитки?
+27 | /audio/z_027.mp3 | Как в лощине наступает ночь?
+28 | /audio/z_028.mp3 | Какого цвета было пламя?
+29 | /audio/z_029.mp3 | Что коснулось уха Шрека?
+30 | /audio/z_030.mp3 | К чему приближались крестьяне?
+31 | /audio/z_031.mp3 | От чего отошёл Шрек?
+32 | /audio/z_032.mp3 |Из чего выветрился хмель?
+33 | /audio/z_033.mp3 |До какого места они добрались?
+34 | /audio/z_034.mp3 |За что Майк схватил Джерри?
+35 | /audio/z_035.mp3 |Кто оглянулся?
+36 | /audio/z_036.mp3 |Что выдавят великаны?
+37 | /audio/z_037.mp3 |Чем Майк размахивал перед лицом Шрека?
+38 | /audio/z_038.mp3 |На что поплевал Шрек?
+39 | /audio/z_039.mp3 |Что сделали люди от ужаса?
+40 | /audio/z_040.mp3 |От чего дрожали люди?
+41 | /audio/z_041.mp3 |Что сделал Майк громко?
+42 | /audio/z_042.mp3 |Что подвернулось под ноги Шреку?
+43 | /audio/z_043.mp3 |Какие существа разыскиваются?
+44 | /audio/z_044.mp3 |Чем пожал Шреку?
+45 | /audio/z_045.mp3 |Кто шёл к замку?
+46 | /audio/z_046.mp3 |Где служили стражники?
+47 | /audio/z_047.mp3 |Сколько лошадей было запряжено в повозку?
+48 | /audio/z_048.mp3 |Что было у стражников на перевязях?
+49 | /audio/z_049.mp3 |На чём стоял стол?
+50 | /audio/z_050.mp3 |У чего толпилась очередь?
 51 | /audio/z_051.mp3 |
 52 | /audio/z_052.mp3 |
 53 | /audio/z_053.mp3 |
@@ -668,6 +668,166 @@
 668 | /audio/z_668.mp3 |
 669 | /audio/z_669.mp3 |
 670 | /audio/z_670.mp3 |
+671 | /audio/z_671.mp3 |
+672 | /audio/z_672.mp3 |
+673 | /audio/z_673.mp3 |
+674 | /audio/z_674.mp3 |
+675 | /audio/z_675.mp3 |
+676 | /audio/z_676.mp3 |
+677 | /audio/z_677.mp3 |
+678 | /audio/z_678.mp3 |
+679 | /audio/z_679.mp3 |
+680 | /audio/z_680.mp3 |
+681 | /audio/z_681.mp3 |
+682 | /audio/z_682.mp3 |
+683 | /audio/z_683.mp3 |
+684 | /audio/z_684.mp3 |
+685 | /audio/z_685.mp3 |
+686 | /audio/z_686.mp3 |
+687 | /audio/z_687.mp3 |
+688 | /audio/z_688.mp3 |
+689 | /audio/z_689.mp3 |
+690 | /audio/z_690.mp3 |
+691 | /audio/z_691.mp3 |
+692 | /audio/z_692.mp3 |
+693 | /audio/z_693.mp3 |
+694 | /audio/z_694.mp3 |
+695 | /audio/z_695.mp3 |
+696 | /audio/z_696.mp3 |
+697 | /audio/z_697.mp3 |
+698 | /audio/z_698.mp3 |
+699 | /audio/z_699.mp3 |
+700 | /audio/z_700.mp3 |
+701 | /audio/z_701.mp3 |
+702 | /audio/z_702.mp3 |
+703 | /audio/z_703.mp3 |
+704 | /audio/z_704.mp3 |
+705 | /audio/z_705.mp3 |
+706 | /audio/z_706.mp3 |
+707 | /audio/z_707.mp3 |
+708 | /audio/z_708.mp3 |
+709 | /audio/z_709.mp3 |
+710 | /audio/z_710.mp3 |
+711 | /audio/z_711.mp3 |
+712 | /audio/z_712.mp3 |
+713 | /audio/z_713.mp3 |
+714 | /audio/z_714.mp3 |
+715 | /audio/z_715.mp3 |
+716 | /audio/z_716.mp3 |
+717 | /audio/z_717.mp3 |
+718 | /audio/z_718.mp3 |
+719 | /audio/z_719.mp3 |
+720 | /audio/z_720.mp3 |
+721 | /audio/z_721.mp3 |
+722 | /audio/z_722.mp3 |
+723 | /audio/z_723.mp3 |
+724 | /audio/z_724.mp3 |
+725 | /audio/z_725.mp3 |
+726 | /audio/z_726.mp3 |
+727 | /audio/z_727.mp3 |
+728 | /audio/z_728.mp3 |
+729 | /audio/z_729.mp3 |
+730 | /audio/z_730.mp3 |
+731 | /audio/z_731.mp3 |
+732 | /audio/z_732.mp3 |
+733 | /audio/z_733.mp3 |
+734 | /audio/z_734.mp3 |
+735 | /audio/z_735.mp3 |
+736 | /audio/z_736.mp3 |
+737 | /audio/z_737.mp3 |
+738 | /audio/z_738.mp3 |
+739 | /audio/z_739.mp3 |
+740 | /audio/z_740.mp3 |
+741 | /audio/z_741.mp3 |
+742 | /audio/z_742.mp3 |
+743 | /audio/z_743.mp3 |
+744 | /audio/z_744.mp3 |
+745 | /audio/z_745.mp3 |
+746 | /audio/z_746.mp3 |
+747 | /audio/z_747.mp3 |
+748 | /audio/z_748.mp3 |
+749 | /audio/z_749.mp3 |
+750 | /audio/z_750.mp3 |
+751 | /audio/z_751.mp3 |
+752 | /audio/z_752.mp3 |
+753 | /audio/z_753.mp3 |
+754 | /audio/z_754.mp3 |
+755 | /audio/z_755.mp3 |
+756 | /audio/z_756.mp3 |
+757 | /audio/z_757.mp3 |
+758 | /audio/z_758.mp3 |
+759 | /audio/z_759.mp3 |
+760 | /audio/z_760.mp3 |
+761 | /audio/z_761.mp3 |
+762 | /audio/z_762.mp3 |
+763 | /audio/z_763.mp3 |
+764 | /audio/z_764.mp3 |
+765 | /audio/z_765.mp3 |
+766 | /audio/z_766.mp3 |
+767 | /audio/z_767.mp3 |
+768 | /audio/z_768.mp3 |
+769 | /audio/z_769.mp3 |
+770 | /audio/z_770.mp3 |
+771 | /audio/z_771.mp3 |
+772 | /audio/z_772.mp3 |
+773 | /audio/z_773.mp3 |
+774 | /audio/z_774.mp3 |
+775 | /audio/z_775.mp3 |
+776 | /audio/z_776.mp3 |
+777 | /audio/z_777.mp3 |
+778 | /audio/z_778.mp3 |
+779 | /audio/z_779.mp3 |
+780 | /audio/z_780.mp3 |
+781 | /audio/z_781.mp3 |
+782 | /audio/z_782.mp3 |
+783 | /audio/z_783.mp3 |
+784 | /audio/z_784.mp3 |
+785 | /audio/z_785.mp3 |
+786 | /audio/z_786.mp3 |
+787 | /audio/z_787.mp3 |
+788 | /audio/z_788.mp3 |
+789 | /audio/z_789.mp3 |
+790 | /audio/z_790.mp3 |
+791 | /audio/z_791.mp3 |
+792 | /audio/z_792.mp3 |
+793 | /audio/z_793.mp3 |
+794 | /audio/z_794.mp3 |
+795 | /audio/z_795.mp3 |
+796 | /audio/z_796.mp3 |
+797 | /audio/z_797.mp3 |
+798 | /audio/z_798.mp3 |
+799 | /audio/z_799.mp3 |
+800 | /audio/z_800.mp3 |
+801 | /audio/z_801.mp3 |
+802 | /audio/z_802.mp3 |
+803 | /audio/z_803.mp3 |
+804 | /audio/z_804.mp3 |
+805 | /audio/z_805.mp3 |
+806 | /audio/z_806.mp3 |
+807 | /audio/z_807.mp3 |
+808 | /audio/z_808.mp3 |
+809 | /audio/z_809.mp3 |
+810 | /audio/z_810.mp3 |
+811 | /audio/z_811.mp3 |
+812 | /audio/z_812.mp3 |
+813 | /audio/z_813.mp3 |
+814 | /audio/z_814.mp3 |
+815 | /audio/z_815.mp3 |
+816 | /audio/z_816.mp3 |
+817 | /audio/z_817.mp3 |
+818 | /audio/z_818.mp3 |
+819 | /audio/z_819.mp3 |
+820 | /audio/z_820.mp3 |
+
+
+
+
+
+
+
+
+
+
 
 
 

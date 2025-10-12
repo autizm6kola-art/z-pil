@@ -61,7 +61,7 @@ function MenuPage({ allTasks, onSelectRange }) {
           const progress = progressByRange[range.index];
           const from = range.taskIds[0];
           const to = range.taskIds[range.taskIds.length - 1];
-          const label = `${from}–${to}`;
+          const label = range.index + 1;
           let buttonClass = 'range-button';
 
           if (progress) {
