@@ -193,6 +193,7 @@ function Task({ task, onCorrect, alreadyCorrect, resetSignal }) {
         value={answer}
         onChange={handleChange}
         style={inputStyle}
+        disabled='none'
         placeholder="Введите ответ"
       />
 
